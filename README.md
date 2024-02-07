@@ -1,0 +1,1 @@
+This is a 3-statement financial projection model for a consumer SaaS business I created as part of a case study project. It includes 24 months of forecasted P&L, Balance Sheet and Cash Flow Statement. It was created on a set of assumptions with no prior historical data (i.e. a startup). It was built in Google Sheets and can be accessed from the MODEL folder in this repository.
